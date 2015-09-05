@@ -1,2 +1,7 @@
 http://eu.blizzard.com/en-gb/company/careers/directory.html
-http://www.nature.com/naturejobs/science/
+http://www.nature.com/naturejobs/science/|css|#content > ul
+http://eu.blizzard.com/en-gb/company/careers/directory.html#region=Europe|css|body > div.career-content > div.inner-width > div.careers-wrapper
+http://careers.ea.com/|css|#wrapper > div > div > div > div.ea-row-group.row-2.clearfix > div > div > div:nth-child(1)
+https://www.itjobs.pt/|css|body > div.wrap > div.container.main-container > div.row
+http://expressoemprego.pt/|css|#wrap > div.container.posRelative > div:nth-child(7) > div.col-xs-9
+https://empregosit.pt/|css|#tables

@@ -1,0 +1,4 @@
+- Change sites list file to a db. (PostgreSQL?)
+- Make it so each site has it's own rate of getting checked for changes.
+- Add KeyboardInterrupt handling.
+- Log to a file when there's an exception caught (hard to see while running).
